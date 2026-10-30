@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\PragueParking.Data.csproj" />
+    <ProjectReference Include="..\PragueParking.Data\PragueParking.Data.csproj" />
   </ItemGroup>
 
   <ItemGroup>
