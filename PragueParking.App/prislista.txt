@@ -1,0 +1,4 @@
+#Prislista 
+GratisMinuter=10
+Bil=20
+MC=10

@@ -1,0 +1,14 @@
+{
+  "AntalPlatser": 100,
+  "Fordonstyper": [
+    {
+      "Namn": "Bil",
+      "AntalPerPlats": 1
+    },
+    {
+      "Namn": "MC",
+      "AntalPerPlats": 2
+    }
+  ]
+}
+ 
